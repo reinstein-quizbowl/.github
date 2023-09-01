@@ -1,1 +1,1 @@
-# .github
+This organization contains the software used by [Reinstein QuizBowl](https://www.reinsteinquizbowl.com/). All of Reinstein QuizBowl's software is currently designed and implemented by [Jonah Greenthal](https://www.github.com/jonahgreenthal/).
